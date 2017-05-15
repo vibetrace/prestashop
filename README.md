@@ -6,6 +6,8 @@ Prestashop - Vibetrace marketing automation
 
 Prestashop is one of th largest ecommerce platforms used around the world to build online stores. Their solution is built on PHP and accepts to extend functionality using plugins.
 
+Easy to install, this plugin allows to start using Vibetrace within 10 minutes after adding it to your Prestashop store!
+
 [Read More on Prestashop](https://prestashop.com)
 
 Prestashop integration
@@ -18,7 +20,7 @@ Prestashop integration
 
 [Create Vibetrace account](https://vibetrace.com/?utm_campaign=content&utm_medium=referral&utm_source=github&utm_term=create)
 
-General marketing automation features
+General marketing automation features for Prestashop stores
 -------
 Vibetrace solution offers a complete set of features to integrate with Prestashop
  - `email marketing` use our visual email builder to send gorgeous newsletters include products and recommendations
@@ -30,7 +32,7 @@ Vibetrace solution offers a complete set of features to integrate with Prestasho
  - `forms` collect email address and any other user information in the right moment.
  - `polls & surveys` enrich user data and gather more information on how to improve your business.
 
-[Increase sales with Marketing Automation](https://vibetrace.com/?utm_campaign=content&utm_medium=referral&utm_source=github&utm_term=increase)
+Start now to [Increase sales with Marketing Automation](https://vibetrace.com/?utm_campaign=content&utm_medium=referral&utm_source=github&utm_term=increase) for your Prestashop shop.
 
 Support
 -------
