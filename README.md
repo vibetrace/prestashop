@@ -20,7 +20,7 @@ Prestashop integration
 
 [Create Vibetrace account](https://vibetrace.com/?utm_campaign=content&utm_medium=referral&utm_source=github&utm_term=create)
 
-General marketing automation features for Prestashop stores
+General [marketing automation features for Prestashop](http://vibetrace.com/marketing-automation-cloud-prestashop/?utm_campaign=content&utm_medium=referral&utm_source=github&utm_term=marketing) stores
 -------
 Vibetrace solution offers a complete set of features to integrate with Prestashop
  - `email marketing` use our visual email builder to send gorgeous newsletters include products and recommendations
