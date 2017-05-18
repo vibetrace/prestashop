@@ -4,7 +4,7 @@ This document explains how to integrate your Prestashop store with Vibetrace in 
 Prestashop - Vibetrace marketing automation
 =============
 
-Prestashop is one of th largest ecommerce platforms used around the world to build online stores. Their solution is built on PHP and accepts to extend functionality using plugins.
+Prestashop is one of the largest ecommerce platforms used around the world to build online stores. Their solution is built on PHP and accepts to extend functionality using plugins.
 
 Easy to install, this plugin allows to start using Vibetrace within 10 minutes after adding it to your Prestashop store!
 
